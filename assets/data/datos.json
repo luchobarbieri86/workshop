@@ -1,0 +1,62 @@
+[
+  {
+	"categoria": "GOLOSINAS",
+	"tipo": "ALFAJOR",
+	"marca": "MILKA",
+	"stock": 150,
+	"peso": 45,
+	"precio": 85,
+	"imagen": "https://argensnack.com/wp-content/uploads/7622300759506_02.jpg",
+	"id": 1
+  },
+ {
+	"categoria": "CIGARRILLOS",
+	"tipo": "BOX",
+	"marca": "MARLBORO",
+	"stock": 500,
+	"peso": 40,
+	"precio": 285,
+	"imagen": "https://cigarrilloscolombia.com/wp-content/uploads/sites/2/2021/07/7702005020351.jpg",
+	"id": 2
+  },
+ {
+	"categoria": "VARIOS",
+	"tipo": "INSECTICIDA",
+	"marca": "RAID",
+	"stock": 100,
+	"peso": 237,
+	"precio": 150,
+	"imagen": "https://raidar-uc1.azureedge.net/-/media/Images/Project/RaidSite/Product-Page/large-product-image/7790520991829.jpg",
+	"id": 3
+  },
+ {
+	"categoria": "ALMACEN",
+	"tipo": "LECHE",
+	"marca": "LA SERENISIMA",
+	"stock": 300,
+	"peso": 1000,
+	"precio": 140,
+	"imagen": "https://www.laserenisimavaatucasa.com.ar/wp-content/uploads/2021/05/7790742348005.png",
+	"id": 4
+  },
+  {
+	"categoria": "GOLOSINAS",
+	"tipo": "CHICLE",
+	"marca": "PUAJ",
+	"stock": 50,
+	"peso": 3.5,
+	"precio": 1,
+	"imagen": "https://pbs.twimg.com/media/Emv7ZuRXMAE4wB7.jpg",
+	"id": 5
+  },
+  {
+	"categoria": "ALMACEN",
+	"tipo": "YERBA",
+	"marca": "LA MERCED",
+	"stock": 250,
+	"peso": 500,
+	"precio": 380,
+	"imagen": "https://www.conradomarket.com.ar/images/000000000015362997531ALMACEN-yerba-LA-MERCED-x-500.jpg",
+	"id": 6
+  }
+]
